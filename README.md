@@ -2,8 +2,6 @@
 
 ### Intelligent Personal Finance Assistant using AI and Financial Simulation
 
-🏆 Winner – Crescendo'26 Hackathon
-
 FinAssist AI is a full-stack personal finance platform that helps users track expenses, manage savings, plan goals, analyze spending behavior, and simulate financial decisions using natural language.
 
 The system combines a React frontend, Node.js backend, MongoDB database, Python FastAPI simulation engine, and a locally hosted Mistral LLM through Ollama. Users can interact conversationally with the platform while receiving reliable financial insights backed by deterministic calculations rather than AI-generated arithmetic.
